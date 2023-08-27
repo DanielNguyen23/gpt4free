@@ -9,3 +9,4 @@ js2py
 quickjs
 flask
 flask-cors
+streamlit==1.24.0
